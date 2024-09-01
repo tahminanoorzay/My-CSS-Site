@@ -1,0 +1,82 @@
+div{
+  background-color: #EFF9F5;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans';
+  color: #40514E;
+}
+h1{
+  font-family: 'Sacramento';
+  font-size: 90px;
+  margin: 50 auto 50 auto;
+  color: #66BFBF;
+  line-height: 2;
+}
+h2{
+  font-family: 'Montserrat';
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat';
+  color: #11999E;
+  padding-bottom: 10px;
+}
+.pro{
+  text-decoration: underline;
+  color: #66BFBF;
+}
+a{
+    color: #11999E;
+}
+ul>li{
+  list-style-type: none;
+  display: inline-block;
+  padding: 80px;
+  font-size: 200%;
+}
+.but{
+  background-color: #66BFBF;
+  padding: 1px;
+  font-size: 10px;
+}
+
+.cloud{
+  display: inline;
+  margin-top: 30px;
+  margin-left: 600px;
+}
+.cloudd{
+  position: absolute;
+}
+.mountain{
+  display: inline;
+}
+.profile_img{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.skill-row{
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+.chillie-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.pc-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px
+}
+.copy-right{
+  text-align: center;
+  color: white;
+}
